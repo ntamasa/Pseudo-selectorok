@@ -1,0 +1,13 @@
+body {
+    width: 25%;
+}
+p {
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    margin: 0;
+    padding: 15px;
+}
+#last {
+    border-bottom: 2px solid black;
+}
